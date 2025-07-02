@@ -22,6 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Project folder structure
+```bash
 
 📦SoldierSlot
  ├─ 📂.git
@@ -176,7 +177,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
  ├─ 📜package.json
  ├─ 📜phpunit.xml
  └─ 📜README.md
-
+```
 
 ## Learning Laravel
 
